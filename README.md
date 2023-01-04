@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whozRehuCodes
 - 👀 I’m interested in CLOUD
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on REACT
 - 📫 How to reach me whozrehu1@gmail.com
 
